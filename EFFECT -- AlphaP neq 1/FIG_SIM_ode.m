@@ -1,6 +1,7 @@
 %%       FIGURE : PID- control        %%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
 %%%%%%%  All species & Z2 inset %%%%%%%%
+%%%%%%% Effect of alpha_P not 1 %%%%%%%%
 % Mariana Gómez-Schiavon
 % November, 2017
 

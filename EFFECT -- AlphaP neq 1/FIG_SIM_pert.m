@@ -1,5 +1,7 @@
 %%       FIGURE : PID- control        %%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%%%% Simulate a perturbation %%%%%%%%
+%%%%%%% Effect of alpha_P not 1 %%%%%%%%
 % Mariana Gómez-Schiavon
 % November, 2017
 
