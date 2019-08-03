@@ -1,6 +1,7 @@
 %%       FIGURE : PID- control        %%
-%%%%%%%%%      TFC system      %%%%%%%%%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%%%% Simulate a perturbation %%%%%%%%
+%%%%%%%% New controller design %%%%%%%%%
 % Mariana Gómez-Schiavon
 % December, 2017
 

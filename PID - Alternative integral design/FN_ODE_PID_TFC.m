@@ -1,3 +1,5 @@
+%% ODE system of the PID controller designed in Chevalier, Gómez-Schiavon et al. (2019; Cell Systems)
+%  using a new integral controller design instead of the antithetic motif
 function dYdt = FN_ODE_PID_TFC(t,y)
     load Par_ODE.mat
     
