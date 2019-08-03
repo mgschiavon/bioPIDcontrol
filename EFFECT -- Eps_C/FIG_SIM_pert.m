@@ -1,5 +1,7 @@
 %%       FIGURE : PID- control        %%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%%%% Simulate a perturbation %%%%%%%%
+%%%%%  Effect of epsilon_C not 0  %%%%%%
 % Mariana Gómez-Schiavon
 % November, 2017
 
