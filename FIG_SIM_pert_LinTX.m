@@ -1,6 +1,6 @@
 %%       FIGURE : PID- control        %%
-%%%%% Linearized *textbook* system %%%%%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%% Linearized *textbook* system %%%%%
 % Mariana Gómez-Schiavon
 % December, 2017
 

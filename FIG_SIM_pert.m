@@ -1,5 +1,6 @@
 %%       FIGURE : PID- control        %%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%%%% Simulate a perturbation %%%%%%%%
 % Mariana Gómez-Schiavon
 % November, 2017
 

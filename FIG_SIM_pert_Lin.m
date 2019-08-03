@@ -1,6 +1,6 @@
 %% FIGURE : I-, PI-, and ID- control  %%
-%%%%%%%%%   Linearized system  %%%%%%%%%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%%%%%%   Linearized system  %%%%%%%%%
 % Mariana Gómez-Schiavon
 % December, 2017
 

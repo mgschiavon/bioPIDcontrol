@@ -1,6 +1,6 @@
 %%       FIGURE : PID- control        %%
+%%%%%%%%% Adaptation dynamics  %%%%%%%%%
 %%%%%%%% Stochastic simulation %%%%%%%%%
-%%%%%%%%%  Adaptation dynamics %%%%%%%%%
 % Mariana Gómez-Schiavon
 % November, 2017
 
