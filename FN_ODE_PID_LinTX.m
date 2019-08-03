@@ -1,3 +1,5 @@
+%% ODE linearized model of a traditional (textbook) PID controller compared to
+%  the system designed in Chevalier, Gómez-Schiavon et al. (2019; Cell Systems)
 function dYdt = FN_ODE_PID_LinTX(t,y)
     load Par_ODE.mat
 	

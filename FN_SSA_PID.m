@@ -1,3 +1,5 @@
+%% Stochastic simulation of the PID controller designed in Chevalier, Gómez-Schiavon et al. (2019; Cell Systems)
+%  using the Gillespie algorithm (Stochastic Simulation Algorithm, SSA; Gillespie, 1976).
 function [t,x] = FN_SSA_PID(t,x,k)
     
     %% Perturbation

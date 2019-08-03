@@ -1,6 +1,8 @@
+%% ODE system of the PID controller designed in Chevalier, Gómez-Schiavon et al. (2019; Cell Systems)
 function dYdt = FN_ODE_PID(t,y)
     load Par_ODE.mat
     
+	%% "Check-point" for systems without steady state
     if(y(2)>4000 && t>100)
         myOut = 'Z_2 too large'
         y = y * NaN;
