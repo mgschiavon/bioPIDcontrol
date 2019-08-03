@@ -1,3 +1,5 @@
+%% ODE system of the PID controller designed in Chevalier, Gómez-Schiavon et al. (2019; Cell Systems)
+%  controlling a complex process with delays
 function dYdt = FN_ODE_PID(t,y)
     load Par_ODE.mat
     

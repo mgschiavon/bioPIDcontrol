@@ -1,6 +1,6 @@
 %%       FIGURE : PID-control         %%
-%%%%%%%%% Complex plant design %%%%%%%%%
-%%%%%%%%%%%% ODE simulation %%%%%%%%%%%%
+%%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%%%%%% Complex process design %%%%%%%%%
 % Mariana Gómez-Schiavon
 % June, 2018
 

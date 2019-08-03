@@ -1,6 +1,8 @@
 %%       FIGURE : PID-control         %%
-%%%%%%%%% Complex plant design %%%%%%%%%
-%%%%%%%% Adaptation time sweep %%%%%%%%%
+%%%%%%%%%  Adaptation dynamics %%%%%%%%%
+%%%%%%% Quantifying performance %%%%%%%%
+%%%%%%%%%%  Adaptation Time  %%%%%%%%%%%
+%%%%%%%%% Complex process design %%%%%%%%%
 % Mariana Gómez-Schiavon
 % June, 2018
 

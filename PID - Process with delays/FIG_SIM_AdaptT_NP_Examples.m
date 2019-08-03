@@ -1,8 +1,8 @@
 %%       FIGURE : PID- control        %%
-%%%%%%%%% Complex plant design %%%%%%%%%
 %%%%%%%%%  Adaptation dynamics %%%%%%%%%
 %%%%%%% Quantifying performance %%%%%%%%
 %%%%%%%%%%%%%%  Examples  %%%%%%%%%%%%%%
+%%%%%%%%% Complex process design %%%%%%%%%
 % Mariana Gómez-Schiavon
 % June, 2018
 
